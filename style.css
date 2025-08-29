@@ -1,0 +1,13 @@
+/* Contact Section */
+.contact h2 {
+    font-weight: bold;
+    color: #222;
+}
+
+#contactForm {
+    border-radius: 12px;
+}
+
+#formMsg {
+    font-weight: bold;
+}
